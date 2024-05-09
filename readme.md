@@ -19,5 +19,5 @@ This repository contains the code and resources for a comprehensive sales analys
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/data-driven-sales-analysis.git
+   git clone https://github.com/siddhartha-04/Data-Driven-Sales-Analysis-and-Visualization
    ```
