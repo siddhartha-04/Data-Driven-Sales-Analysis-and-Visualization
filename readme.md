@@ -1,6 +1,6 @@
 # Data-Driven Sales Analysis and Visualization
 
-![Project Image](project_image.png)
+![Project Image](image.png)
 
 ## Description
 
